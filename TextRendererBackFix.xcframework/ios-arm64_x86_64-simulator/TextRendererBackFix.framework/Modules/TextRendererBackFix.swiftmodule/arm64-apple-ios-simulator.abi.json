@@ -1,0 +1,236 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TextRendererBackFix",
+    "printedName": "TextRendererBackFix",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "TextRendererBackFix",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "BFTextRendererViewModifier",
+        "printedName": "BFTextRendererViewModifier",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "body",
+            "printedName": "body(content:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpaqueTypeArchetype",
+                "printedName": "some SwiftUI.View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "View",
+                    "printedName": "SwiftUI.View",
+                    "usr": "s:7SwiftUI4ViewP"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "_ViewModifier_Content",
+                "printedName": "SwiftUI._ViewModifier_Content<TextRendererBackFix.BFTextRendererViewModifier<τ_0_0>>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BFTextRendererViewModifier",
+                    "printedName": "TextRendererBackFix.BFTextRendererViewModifier<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:19TextRendererBackFix06BFTextB12ViewModifierV"
+                  }
+                ],
+                "usr": "s:7SwiftUI21_ViewModifier_ContentV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19TextRendererBackFix06BFTextB12ViewModifierV4body7contentQr7SwiftUI01_fG8_ContentVyACyxGG_tF",
+            "mangledName": "$s19TextRendererBackFix06BFTextB12ViewModifierV4body7contentQr7SwiftUI01_fG8_ContentVyACyxGG_tF",
+            "moduleName": "TextRendererBackFix",
+            "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.TextRenderer>",
+            "sugared_genericSig": "<Renderer where Renderer : SwiftUI.TextRenderer>",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:19TextRendererBackFix06BFTextB12ViewModifierV",
+        "mangledName": "$s19TextRendererBackFix06BFTextB12ViewModifierV",
+        "moduleName": "TextRendererBackFix",
+        "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.TextRenderer>",
+        "sugared_genericSig": "<Renderer where Renderer : SwiftUI.TextRenderer>",
+        "intro_Macosx": "14.0",
+        "intro_iOS": "17.0",
+        "intro_watchOS": "10.0",
+        "declAttributes": [
+          "Preconcurrency",
+          "Custom",
+          "AccessControl",
+          "Available",
+          "Available",
+          "Available"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ViewModifier",
+            "printedName": "ViewModifier",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Body",
+                "printedName": "Body",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "OpaqueTypeArchetype",
+                    "printedName": "some SwiftUI.View",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "View",
+                        "printedName": "SwiftUI.View",
+                        "usr": "s:7SwiftUI4ViewP"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI12ViewModifierP",
+            "mangledName": "$s7SwiftUI12ViewModifierP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "View",
+        "printedName": "View",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "bfTextRenderer",
+            "printedName": "bfTextRenderer(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "OpaqueTypeArchetype",
+                "printedName": "some SwiftUI.View",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "View",
+                    "printedName": "SwiftUI.View",
+                    "usr": "s:7SwiftUI4ViewP"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "GenericTypeParam",
+                "printedName": "τ_1_0"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7SwiftUI4ViewP19TextRendererBackFixE02bfdE0yQrqd__AA0dE0Rd__lF",
+            "mangledName": "$s7SwiftUI4ViewP19TextRendererBackFixE02bfdE0yQrqd__AA0dE0Rd__lF",
+            "moduleName": "TextRendererBackFix",
+            "genericSig": "<τ_0_0, τ_1_0 where τ_0_0 : SwiftUI.View, τ_1_0 : SwiftUI.TextRenderer>",
+            "sugared_genericSig": "<Self, Renderer where Self : SwiftUI.View, Renderer : SwiftUI.TextRenderer>",
+            "intro_iOS": "17.0",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "Available"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:7SwiftUI4ViewP",
+        "mangledName": "$s7SwiftUI4ViewP",
+        "moduleName": "SwiftUICore",
+        "genericSig": "<τ_0_0.Body : SwiftUI.View>",
+        "sugared_genericSig": "<Self.Body : SwiftUI.View>",
+        "intro_Macosx": "10.15",
+        "intro_iOS": "13.0",
+        "intro_tvOS": "13.0",
+        "intro_watchOS": "6.0",
+        "declAttributes": [
+          "Preconcurrency",
+          "TypeEraser",
+          "OriginallyDefinedIn",
+          "OriginallyDefinedIn",
+          "OriginallyDefinedIn",
+          "OriginallyDefinedIn",
+          "Available",
+          "Available",
+          "Available",
+          "Available",
+          "Custom"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

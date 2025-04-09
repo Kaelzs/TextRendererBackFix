@@ -1,0 +1,25 @@
+---
+triple:          'i386-apple-darwin'
+binary-path:     '/Users/kael/Developer/individual/TextRendererBackFix/build/xcodebuild/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/TextRendererBackFix/InstallationBuildProductsLocation/Library/Frameworks/TextRendererBackFix.framework/TextRendererBackFix'
+relocations:
+  - { offset: 0x47888, size: 0x4, addend: 0x0, symName: '_$s7SwiftUI4ViewP19TextRendererBackFixE02bfdE0yQrqd__AA0dE0Rd__lF', symObjAddr: 0x0, symBinAddr: 0xF50, symSize: 0xC0 }
+  - { offset: 0x478FA, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVyxG7SwiftUI0fG0AaeFP05_makeF08modifier6inputs4bodyAE01_F7OutputsVAE11_GraphValueVyxG_AE01_F6InputsVAmE01_O0V_ARtctFZTW', symObjAddr: 0x260, symBinAddr: 0x11B0, symSize: 0x40 }
+  - { offset: 0x47911, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVyxG7SwiftUI0fG0AaeFP05_makeF4List8modifier6inputs4bodyAE01_fK7OutputsVAE11_GraphValueVyxG_AE01_fK6InputsVAmE01_P0V_ARtctFZTW', symObjAddr: 0x2A0, symBinAddr: 0x11F0, symSize: 0x40 }
+  - { offset: 0x47928, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVyxG7SwiftUI0fG0AaeFP14_viewListCount6inputs4bodySiSgAE01_fkL6InputsV_AkMXEtFZTW', symObjAddr: 0x2E0, symBinAddr: 0x1230, symSize: 0x30 }
+  - { offset: 0x479B8, size: 0x4, addend: 0x0, symName: '_$s7SwiftUI4ViewP19TextRendererBackFixE02bfdE0yQrqd__AA0dE0Rd__lF', symObjAddr: 0x0, symBinAddr: 0xF50, symSize: 0xC0 }
+  - { offset: 0x47A59, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVyxG7SwiftUI0fG0AA4BodyAeFP_AE0F0PWT', symObjAddr: 0x220, symBinAddr: 0x1170, symSize: 0x40 }
+  - { offset: 0x47A69, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVMi', symObjAddr: 0x330, symBinAddr: 0x1280, symSize: 0x20 }
+  - { offset: 0x47A79, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVMr', symObjAddr: 0x350, symBinAddr: 0x12A0, symSize: 0x60 }
+  - { offset: 0x47A89, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwCP', symObjAddr: 0x3B0, symBinAddr: 0x1300, symSize: 0x70 }
+  - { offset: 0x47A99, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwxx', symObjAddr: 0x420, symBinAddr: 0x1370, symSize: 0x20 }
+  - { offset: 0x47AA9, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwcp', symObjAddr: 0x440, symBinAddr: 0x1390, symSize: 0x30 }
+  - { offset: 0x47AB9, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwca', symObjAddr: 0x470, symBinAddr: 0x13C0, symSize: 0x30 }
+  - { offset: 0x47AC9, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwtk', symObjAddr: 0x4A0, symBinAddr: 0x13F0, symSize: 0x30 }
+  - { offset: 0x47AD9, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwta', symObjAddr: 0x4D0, symBinAddr: 0x1420, symSize: 0x30 }
+  - { offset: 0x47AE9, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwet', symObjAddr: 0x500, symBinAddr: 0x1450, symSize: 0x120 }
+  - { offset: 0x47AF9, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwst', symObjAddr: 0x620, symBinAddr: 0x1570, symSize: 0x1D0 }
+  - { offset: 0x47B09, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVMa', symObjAddr: 0x7F0, symBinAddr: 0x1740, symSize: 0x40 }
+  - { offset: 0x47B19, size: 0x4, addend: 0x0, symName: ___swift_instantiateGenericMetadata, symObjAddr: 0x980, symBinAddr: 0x18D0, symSize: 0x35 }
+  - { offset: 0x47B72, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierV4body7contentQr7SwiftUI01_fG8_ContentVyACyxGG_tF', symObjAddr: 0xC0, symBinAddr: 0x1010, symSize: 0x160 }
+  - { offset: 0x47BE5, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVyxG7SwiftUI0fG0AaeFP4body7content4BodyQzAE01_fG8_ContentVyxG_tFTW', symObjAddr: 0x310, symBinAddr: 0x1260, symSize: 0x20 }
+...

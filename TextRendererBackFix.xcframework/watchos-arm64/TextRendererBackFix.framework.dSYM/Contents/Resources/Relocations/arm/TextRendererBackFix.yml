@@ -1,0 +1,25 @@
+---
+triple:          'armv7k-apple-darwin'
+binary-path:     '/Users/kael/Developer/individual/TextRendererBackFix/build/xcodebuild/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/TextRendererBackFix/InstallationBuildProductsLocation/Library/Frameworks/TextRendererBackFix.framework/TextRendererBackFix'
+relocations:
+  - { offset: 0x459A6, size: 0x4, addend: 0x0, symName: '_$s7SwiftUI4ViewP19TextRendererBackFixE02bfdE0yQrqd__AA0dE0Rd__lF', symObjAddr: 0x0, symBinAddr: 0x58B0, symSize: 0xA6 }
+  - { offset: 0x45A1C, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVyxG7SwiftUI0fG0AaeFP05_makeF08modifier6inputs4bodyAE01_F7OutputsVAE11_GraphValueVyxG_AE01_F6InputsVAmE01_O0V_ARtctFZTW', symObjAddr: 0x1E2, symBinAddr: 0x5A92, symSize: 0x1A }
+  - { offset: 0x45A35, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVyxG7SwiftUI0fG0AaeFP05_makeF4List8modifier6inputs4bodyAE01_fK7OutputsVAE11_GraphValueVyxG_AE01_fK6InputsVAmE01_P0V_ARtctFZTW', symObjAddr: 0x1FC, symBinAddr: 0x5AAC, symSize: 0x1A }
+  - { offset: 0x45A4E, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVyxG7SwiftUI0fG0AaeFP14_viewListCount6inputs4bodySiSgAE01_fkL6InputsV_AkMXEtFZTW', symObjAddr: 0x216, symBinAddr: 0x5AC6, symSize: 0x1A }
+  - { offset: 0x45AE0, size: 0x4, addend: 0x0, symName: '_$s7SwiftUI4ViewP19TextRendererBackFixE02bfdE0yQrqd__AA0dE0Rd__lF', symObjAddr: 0x0, symBinAddr: 0x58B0, symSize: 0xA6 }
+  - { offset: 0x45B8F, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVyxG7SwiftUI0fG0AA4BodyAeFP_AE0F0PWT', symObjAddr: 0x1BE, symBinAddr: 0x5A6E, symSize: 0x24 }
+  - { offset: 0x45BA0, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVMi', symObjAddr: 0x23E, symBinAddr: 0x5AEE, symSize: 0x6 }
+  - { offset: 0x45BB1, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVMr', symObjAddr: 0x244, symBinAddr: 0x5AF4, symSize: 0x40 }
+  - { offset: 0x45BC2, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwCP', symObjAddr: 0x284, symBinAddr: 0x5B34, symSize: 0x48 }
+  - { offset: 0x45BD3, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwxx', symObjAddr: 0x2CC, symBinAddr: 0x5B7C, symSize: 0xA }
+  - { offset: 0x45BE4, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwcp', symObjAddr: 0x2D6, symBinAddr: 0x5B86, symSize: 0x16 }
+  - { offset: 0x45BF5, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwca', symObjAddr: 0x2EC, symBinAddr: 0x5B9C, symSize: 0x16 }
+  - { offset: 0x45C06, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwtk', symObjAddr: 0x302, symBinAddr: 0x5BB2, symSize: 0x16 }
+  - { offset: 0x45C17, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwta', symObjAddr: 0x318, symBinAddr: 0x5BC8, symSize: 0x18 }
+  - { offset: 0x45C28, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwet', symObjAddr: 0x330, symBinAddr: 0x5BE0, symSize: 0xC0 }
+  - { offset: 0x45C39, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwst', symObjAddr: 0x3F0, symBinAddr: 0x5CA0, symSize: 0x118 }
+  - { offset: 0x45C4A, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVMa', symObjAddr: 0x508, symBinAddr: 0x5DB8, symSize: 0x1A }
+  - { offset: 0x45C5B, size: 0x4, addend: 0x0, symName: ___swift_instantiateGenericMetadata, symObjAddr: 0x612, symBinAddr: 0x5EC2, symSize: 0x22 }
+  - { offset: 0x45CB6, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierV4body7contentQr7SwiftUI01_fG8_ContentVyACyxGG_tF', symObjAddr: 0xA6, symBinAddr: 0x5956, symSize: 0x118 }
+  - { offset: 0x45D25, size: 0x4, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVyxG7SwiftUI0fG0AaeFP4body7content4BodyQzAE01_fG8_ContentVyxG_tFTW', symObjAddr: 0x230, symBinAddr: 0x5AE0, symSize: 0xE }
+...

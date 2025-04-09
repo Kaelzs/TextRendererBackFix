@@ -1,0 +1,25 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/kael/Developer/individual/TextRendererBackFix/build/xcodebuild/DerivedData/Build/Intermediates.noindex/ArchiveIntermediates/TextRendererBackFix/InstallationBuildProductsLocation/Library/Frameworks/TextRendererBackFix.framework/Versions/A/TextRendererBackFix'
+relocations:
+  - { offset: 0xC8B17, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI4ViewP19TextRendererBackFixE02bfdE0yQrqd__AA0dE0Rd__lF', symObjAddr: 0x0, symBinAddr: 0x1310, symSize: 0xF0 }
+  - { offset: 0xC8B93, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVyxG7SwiftUI0fG0AaeFP05_makeF08modifier6inputs4bodyAE01_F7OutputsVAE11_GraphValueVyxG_AE01_F6InputsVAmE01_O0V_ARtctFZTW', symObjAddr: 0x270, symBinAddr: 0x1580, symSize: 0x10 }
+  - { offset: 0xC8BAF, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVyxG7SwiftUI0fG0AaeFP05_makeF4List8modifier6inputs4bodyAE01_fK7OutputsVAE11_GraphValueVyxG_AE01_fK6InputsVAmE01_P0V_ARtctFZTW', symObjAddr: 0x280, symBinAddr: 0x1590, symSize: 0x10 }
+  - { offset: 0xC8BCB, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVyxG7SwiftUI0fG0AaeFP14_viewListCount6inputs4bodySiSgAE01_fkL6InputsV_AkMXEtFZTW', symObjAddr: 0x290, symBinAddr: 0x15A0, symSize: 0x10 }
+  - { offset: 0xC8C61, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI4ViewP19TextRendererBackFixE02bfdE0yQrqd__AA0dE0Rd__lF', symObjAddr: 0x0, symBinAddr: 0x1310, symSize: 0xF0 }
+  - { offset: 0xC8D16, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVyxG7SwiftUI0fG0AA4BodyAeFP_AE0F0PWT', symObjAddr: 0x240, symBinAddr: 0x1550, symSize: 0x30 }
+  - { offset: 0xC8D2A, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVMi', symObjAddr: 0x2B0, symBinAddr: 0x15C0, symSize: 0x10 }
+  - { offset: 0xC8D3E, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVMr', symObjAddr: 0x2C0, symBinAddr: 0x15D0, symSize: 0x60 }
+  - { offset: 0xC8D52, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwCP', symObjAddr: 0x320, symBinAddr: 0x1630, symSize: 0x60 }
+  - { offset: 0xC8D66, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwxx', symObjAddr: 0x380, symBinAddr: 0x1690, symSize: 0x20 }
+  - { offset: 0xC8D7A, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwcp', symObjAddr: 0x3A0, symBinAddr: 0x16B0, symSize: 0x20 }
+  - { offset: 0xC8D8E, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwca', symObjAddr: 0x3C0, symBinAddr: 0x16D0, symSize: 0x20 }
+  - { offset: 0xC8DA2, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwtk', symObjAddr: 0x3E0, symBinAddr: 0x16F0, symSize: 0x20 }
+  - { offset: 0xC8DB6, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwta', symObjAddr: 0x400, symBinAddr: 0x1710, symSize: 0x20 }
+  - { offset: 0xC8DCA, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwet', symObjAddr: 0x420, symBinAddr: 0x1730, symSize: 0x110 }
+  - { offset: 0xC8DDE, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVwst', symObjAddr: 0x530, symBinAddr: 0x1840, symSize: 0x1F0 }
+  - { offset: 0xC8DF2, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVMa', symObjAddr: 0x720, symBinAddr: 0x1A30, symSize: 0x10 }
+  - { offset: 0xC8E06, size: 0x8, addend: 0x0, symName: ___swift_instantiateGenericMetadata, symObjAddr: 0x870, symBinAddr: 0x1B80, symSize: 0x26 }
+  - { offset: 0xC8E65, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierV4body7contentQr7SwiftUI01_fG8_ContentVyACyxGG_tF', symObjAddr: 0xF0, symBinAddr: 0x1400, symSize: 0x150 }
+  - { offset: 0xC8EE4, size: 0x8, addend: 0x0, symName: '_$s19TextRendererBackFix06BFTextB12ViewModifierVyxG7SwiftUI0fG0AaeFP4body7content4BodyQzAE01_fG8_ContentVyxG_tFTW', symObjAddr: 0x2A0, symBinAddr: 0x15B0, symSize: 0x10 }
+...
