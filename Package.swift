@@ -6,9 +6,9 @@ import PackageDescription
 let package = Package(
     name: "TextRendererBackFix",
     platforms: [
-        .iOS(.v17),
-        .macOS(.v14),
-        .watchOS(.v10),
+        .iOS(.v14),
+        .macOS(.v11),
+        .watchOS(.v7),
     ],
     products: [
         .library(
